@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/insurance-comparator/static/css/main.e4be9b53.chunk.css",
+    "main.js": "/insurance-comparator/static/js/main.2422facc.chunk.js",
+    "main.js.map": "/insurance-comparator/static/js/main.2422facc.chunk.js.map",
+    "runtime-main.js": "/insurance-comparator/static/js/runtime-main.941ff2e1.js",
+    "runtime-main.js.map": "/insurance-comparator/static/js/runtime-main.941ff2e1.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/insurance-comparator/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.2964db19.chunk.js": "/insurance-comparator/static/js/2.2964db19.chunk.js",
+    "static/js/2.2964db19.chunk.js.map": "/insurance-comparator/static/js/2.2964db19.chunk.js.map",
+    "index.html": "/insurance-comparator/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/insurance-comparator/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.e4be9b53.chunk.css.map": "/insurance-comparator/static/css/main.e4be9b53.chunk.css.map",
+    "static/js/2.2964db19.chunk.js.LICENSE.txt": "/insurance-comparator/static/js/2.2964db19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.941ff2e1.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.2964db19.chunk.js",
+    "static/css/main.e4be9b53.chunk.css",
+    "static/js/main.2422facc.chunk.js"
+  ]
+}
